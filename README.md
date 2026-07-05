@@ -1,4 +1,5 @@
-#Hospital Management System
+**#Hospital Management System**
+
 A web-based platform designed to streamline clinical workflows, manage appointments, and organize patient records efficiently.
 
 🚀 Features
