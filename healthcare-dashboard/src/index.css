@@ -1,0 +1,17 @@
+/* This imports the fonts from your design system */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Manrope:wght@600;700&display=swap');
+
+/* These three lines are the "engine" for Tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: #f7f9fb; /* Surface color from your design */
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Manrope', sans-serif;
+}
